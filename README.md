@@ -28,6 +28,7 @@ I solve problems that others don't.
 ## Projects Full Stack
 
 - Sgeo (Back-end, Front-end, Mobile) [https://www.sgeo.com.br]
+- Mosaic Club (Back-end, Front-end, Mobile) [https://www.mosaicclub.com.br]
 - GoBarber (RockeSteat GoStack Bootcamp Course)
 - Be The Hero (OminisTack 11.0) [https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
 - DevRadar (OminiStack 10.0) [https://github.com/marciodiasdeveloper/oministack-week-10-devradar](https://github.com/marciodiasdeveloper/oministack-week-10-devradar)
@@ -35,6 +36,7 @@ I solve problems that others don't.
 
 ## Projects web
 
+- www.vpsdozeroaoavancado.com.br - Curso Online VPS do Zero ao Avançado
 - www.leticiadepaula.com.br - Curso online com Letícia de Paula [@leticiadepaulaoficial](https://www.instagram.com/leticiadepaulaoficial/) - 
 - www.sgeo.com.br - Sistema de Gestão Escolar Online
 - www.smokeyeyes.com.br - Curso online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
