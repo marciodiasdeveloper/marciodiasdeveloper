@@ -22,6 +22,7 @@ I solve problems that others don't.
 ## Social
 
 - [https://instagram.com/marciodias.me](https://instagram.com/marciodias.me)
+- [https://www.linkedin.com/in/marciodiasdeveloper](https://www.linkedin.com/in/marciodiasdeveloper)
 - [https://www.facebook.com/marciodias.me/](https://www.facebook.com/marciodias.me/)
 - [https://facebook.com/marciodiasdev](https://facebook.com/marciodiasdev)
 
