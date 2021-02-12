@@ -54,12 +54,9 @@ I solve problems that others don't.
 - [www.lumaville.com.br](www.lumaville.com.br)
 - [www.anadoceu.com](www.anadoceu.com)
 
-## Web Service Documentations
-
-- [https://docs.sgeo.com.br](https://docs.sgeo.com.br)
-- [https://docs.marciodias.me](https://docs.marciodias.me)
 
 ## Mobile
+- Mosaic Club | Arquitetura & Design (React Native) - [Android](https://mosaicclub.com.br/android) - [iOS](https://mosaicclub.com.br/ios)
 - Sistema de Gestão Escolar Online (SGEO) (React Native) - [Android](https://play.google.com/store/apps/details?id=com.marciodias.sgeo) - [iOS](https://apps.apple.com/us/app/sgeo/id1304336256?l=pt&ls=1)
 - GoBarber (RockeSteat GoStack Course) (React Native)
 - Be The Hero (OminisTack 11.0) [Github](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
@@ -70,6 +67,11 @@ I solve problems that others don't.
 - Instagram Clone (React Native)
 - Tindev - Tinder for developers (React Native)
 - DevsFit (React Native)
+
+## Web Service Documentations
+
+- [https://docs.sgeo.com.br](https://docs.sgeo.com.br)
+- [https://docs.marciodias.me](https://docs.marciodias.me)
 
 ## Skills
 - NodeJs
