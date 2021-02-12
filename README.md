@@ -62,17 +62,14 @@ I solve problems that others don't.
 ## Mobile
 - Sistema de Gestão Escolar Online (SGEO) (React Native) - [Android](https://play.google.com/store/apps/details?id=com.marciodias.sgeo) - [iOS](https://apps.apple.com/us/app/sgeo/id1304336256?l=pt&ls=1)
 - GoBarber (RockeSteat GoStack Course) (React Native)
-- Be The Hero (OminisTack 11.0) [https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
-- DevRadar (OminiStack 10.0) [https://github.com/marciodiasdeveloper/oministack-week-10-devradar](https://github.com/marciodiasdeveloper/oministack-week-10-devradar)
-- AirBnb Clone (OminiStack 9.0) [https://github.com/marciodiasdeveloper/oministack-week-09-airbnb-clone](https://github.com/marciodiasdeveloper/oministack-week-09-airbnb-clone)
+- Be The Hero (OminisTack 11.0) [Github](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
+- DevRadar (OminiStack 10.0) [Github](https://github.com/marciodiasdeveloper/oministack-week-10-devradar)
+- AirBnb Clone (OminiStack 9.0) [Github](https://github.com/marciodiasdeveloper/oministack-week-09-airbnb-clone)
 - Uber Clone (React Native)
 - Whatsapp Clone (React Native)
 - Instagram Clone (React Native)
 - Tindev - Tinder for developers (React Native)
 - DevsFit (React Native)
-- Masterclass Online (Ionic 3)
-- Rede 10 Associados (Ionic 3)
-- Diabetes Controlada (Ionic 3)
 
 ## Skills
 - NodeJs
