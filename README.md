@@ -19,6 +19,8 @@ My name Is Márcio Dias, I'm a Full Stack Developer from Divinópolis, Minas Ger
 
 I solve problems that others don't.
 
+![Márcio Dias | Soluções Digitais](https://admin.marciodias.me/images/marca/vertical/marca-default.png)
+
 ## Social
 
 - [https://instagram.com/marciodias.me](https://instagram.com/marciodias.me)
@@ -47,15 +49,6 @@ I solve problems that others don't.
 - www.divilarimoveis.com.br - Divilar Imóveis (Sistema imobiliário)
 
 
-## E-commerce Web
-- [www.apmarcalcollection.com.br](www.apmarcalcollection.com.br)
-- [www.kabannastore.com.br](www.kabannastore.com.br)
-- [www.lavenuestore.com.br](www.lavenuestore.com.br)
-- [www.lpmakeupstore.com.br](www.lpmakeupstore.com.br)
-- [www.lumaville.com.br](www.lumaville.com.br)
-- [www.anadoceu.com](www.anadoceu.com)
-
-
 ## Mobile
 - Mosaic Club | Arquitetura & Design (React Native) - [Android](https://mosaicclub.com.br/android) - [iOS](https://mosaicclub.com.br/ios)
 - Sistema de Gestão Escolar Online (SGEO) (React Native) - [Android](https://play.google.com/store/apps/details?id=com.marciodias.sgeo) - [iOS](https://apps.apple.com/us/app/sgeo/id1304336256?l=pt&ls=1)
@@ -68,6 +61,16 @@ I solve problems that others don't.
 - Instagram Clone (React Native)
 - Tindev - Tinder for developers (React Native)
 - DevsFit (React Native)
+
+
+## E-commerce Web
+- [www.apmarcalcollection.com.br](www.apmarcalcollection.com.br)
+- [www.kabannastore.com.br](www.kabannastore.com.br)
+- [www.lavenuestore.com.br](www.lavenuestore.com.br)
+- [www.lpmakeupstore.com.br](www.lpmakeupstore.com.br)
+- [www.lumaville.com.br](www.lumaville.com.br)
+- [www.anadoceu.com](www.anadoceu.com)
+
 
 ## Web Service Documentations
 
