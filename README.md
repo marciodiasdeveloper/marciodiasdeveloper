@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://admin.marciodias.me/images/marca/vertical/marca-default.png" width="150" alt="Márcio Dias - Soluções Digitais" />
-
 
 # My developer portfolio 👋
+
+<img src="https://admin.marciodias.me/images/marca/vertical/marca-default.png" width="150" alt="Márcio Dias - Soluções Digitais" />
 
 My name Is Márcio Dias, I'm a Full Stack Developer from Divinópolis, Minas Gerais - Brazil.
 
