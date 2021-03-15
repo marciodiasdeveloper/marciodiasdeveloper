@@ -31,7 +31,7 @@ I solve problems that others don't.
 
 ## Projects Full Stack
 
-- Runlead | Agenda de Serviços [https://www.runlead.com.br]
+- Runlead | Agendamento Inteligente [https://www.runlead.com.br]
 - Sgeo (Back-end, Front-end, Mobile) [https://www.sgeo.com.br]
 - Mosaic Club (Back-end, Front-end, Mobile) [https://www.mosaicclub.com.br]
 - GoBarber (RockeSteat GoStack Bootcamp Course)
@@ -41,7 +41,7 @@ I solve problems that others don't.
 
 ## Projects web (Design & Code)
 
-- www.runlead.com.br - Runlead | Agenda de Serviços
+- www.runlead.com.br - Runlead | Agendamento Inteligente
 - www.mosaicclub.com.br - Mosaic Club | Arquitetura & Design
 - www.vpsdozeroaoavancado.com.br - Curso Online VPS do Zero ao Avançado
 - www.leticiadepaula.com.br - Curso online com Letícia de Paula [@leticiadepaulaoficial](https://www.instagram.com/leticiadepaulaoficial/) - 
