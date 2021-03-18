@@ -87,6 +87,8 @@ I solve problems that others don't.
 - AdonisJs
 - ReactJs
 - React Native
+- Gatsby
+- NextJS
 - PHP
 - Laravel
 - Javascript
