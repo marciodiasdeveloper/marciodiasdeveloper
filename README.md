@@ -95,7 +95,6 @@ I solve problems that others don't.
 - Angular
 - Vue
 - CSS
-- Ionic
 - Mautic
 - Docker
 
