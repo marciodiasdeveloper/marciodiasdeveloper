@@ -76,7 +76,7 @@ I solve problems that others don't.
 - [www.anadoceu.com](www.anadoceu.com)
 
 
-## Web Service Documentations
+## Api Web Service Documentations
 
 - [https://docs.sgeo.com.br](https://docs.sgeo.com.br)
 - [https://docs.marciodias.me](https://docs.marciodias.me)
@@ -95,6 +95,8 @@ I solve problems that others don't.
 - Angular
 - Vue
 - CSS
+- SaSS
+- Styled Components
 - Mautic
 - Docker
 
