@@ -68,8 +68,9 @@ I solve problems that others don't.
 
 
 ## E-commerce Web
+- [www.lpmakeupstore.com.br](www.lpmakeupstore.com.br)
+- [www.sleepstorecolchoes.com.br](www.sleepstorecolchoes.com.br)
 - [www.apmarcalcollection.com.br](www.apmarcalcollection.com.br)
-- [www.kabannastore.com.br](www.kabannastore.com.br)
 - [www.lavenuestore.com.br](www.lavenuestore.com.br)
 - [www.lpmakeupstore.com.br](www.lpmakeupstore.com.br)
 - [www.lumaville.com.br](www.lumaville.com.br)
