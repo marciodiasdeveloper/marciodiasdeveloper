@@ -82,6 +82,10 @@ I solve problems that others don't.
 - [https://docs.sgeo.com.br](https://docs.sgeo.com.br)
 - [https://docs.marciodias.me](https://docs.marciodias.me)
 
+## Courses
+
+- [Rocketseat](https://rocketseat.com.br/) - Full Stack (ReactJS + React Native + NodeJS + NextJS)
+
 ## Skills
 - NodeJs
 - Express
