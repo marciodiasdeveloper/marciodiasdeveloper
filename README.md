@@ -87,6 +87,8 @@ I solve problems that others don't.
 - [Rocketseat](https://rocketseat.com.br/) - Full Stack (ReactJS + React Native + NodeJS + NextJS)
 
 ## Skills
+- Typescript
+- Javascript
 - NodeJs
 - Express
 - AdonisJs
@@ -96,7 +98,6 @@ I solve problems that others don't.
 - NextJS
 - PHP
 - Laravel
-- Javascript
 - Angular
 - Vue
 - CSS
