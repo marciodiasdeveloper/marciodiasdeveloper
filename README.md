@@ -24,10 +24,6 @@ I solve problems that others don't.
 
 ## Social
 
-- [https://instagram.com/marciodias.me](https://instagram.com/marciodias.me)
-- [https://www.linkedin.com/in/marciodiasdeveloper](https://www.linkedin.com/in/marciodiasdeveloper)
-- [https://www.facebook.com/marciodias.me/](https://www.facebook.com/marciodias.me/)
-
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://marciodias.me/whatsapp)
 [![Linkedin Badge](https://img.shields.io/badge/-M%C3%A1rcio%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodiasdeveloper/)](https://www.linkedin.com/in/nelsonsantosaraujo/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marciodias.me)
