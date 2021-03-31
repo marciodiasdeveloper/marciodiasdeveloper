@@ -28,7 +28,7 @@ I solve problems that others don't.
 - [https://www.linkedin.com/in/marciodiasdeveloper](https://www.linkedin.com/in/marciodiasdeveloper)
 - [https://www.facebook.com/marciodias.me/](https://www.facebook.com/marciodias.me/)
 
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://marciodias.me/whatsapp)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://marciodias.me/whatsapp)
 [![Linkedin Badge](https://img.shields.io/badge/-M%C3%A1rcio%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodiasdeveloper/)](https://www.linkedin.com/in/nelsonsantosaraujo/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@marciodias.me-red?style=flat-square&link=mailto:contato@marciodias.me)](mailto:contato@marciodias.me)
 ![Last Commit Badge](https://img.shields.io/github/last-commit/marciodiasdeveloper/marciodiasdeveloper)
