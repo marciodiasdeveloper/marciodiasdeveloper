@@ -84,8 +84,11 @@ I solve problems that others don't.
 
 ## Courses
 
-- 2020 - [Rocketseat GoStack](https://rocketseat.com.br/) - Full Stack (ReactJS + React Native + NodeJS + NextJS)
 - 2021 - [Rocketseat Ignite](https://github.com/marciodiasdeveloper/ignite) - Rocketseat ReactJS Ignite (Github Explorer, Dtmoney and Ig.news)
+- 2020 - [Rocketseat GoStack](https://rocketseat.com.br/) - Full Stack (ReactJS + React Native + NodeJS + NextJS)
+
+## Courses (Projects)
+- 2021 - [Ignite](https://github.com/marciodiasdeveloper/ignews) - ReactJS, NextJS, TypeScript, SASS, Next-Auth, Stripe, FaunaDB, Prismic and CMS.
 
 ## Skills
 - Typescript
