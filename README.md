@@ -88,6 +88,7 @@ I solve problems that others don't.
 - 2020 - [Rocketseat GoStack](https://rocketseat.com.br/) - Full Stack (ReactJS + React Native + NodeJS + NextJS)
 
 ## Courses (Projects)
+
 - 2021 - [Ignite](https://github.com/marciodiasdeveloper/ignews) - ReactJS, NextJS, TypeScript, SASS, Next-Auth, Stripe, FaunaDB, Prismic and CMS.
 
 ## Skills
@@ -109,4 +110,9 @@ I solve problems that others don't.
 - Styled Components
 - Mautic
 - Docker
+
+## Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-M%C3%A1rcio%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodiasdeveloper/)](https://www.linkedin.com/in/nelsonsantosaraujo/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@marciodias.me-red?style=flat-square&link=mailto:contato@marciodias.me)](mailto:contato@marciodias.me)
 
