@@ -27,7 +27,9 @@ I solve problems that others don't.
 - [https://instagram.com/marciodias.me](https://instagram.com/marciodias.me)
 - [https://www.linkedin.com/in/marciodiasdeveloper](https://www.linkedin.com/in/marciodiasdeveloper)
 - [https://www.facebook.com/marciodias.me/](https://www.facebook.com/marciodias.me/)
-- [https://facebook.com/marciodiasdev](https://facebook.com/marciodiasdev)
+
+[![Linkedin Badge](https://img.shields.io/badge/-M%C3%A1rcio%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodiasdeveloper/)](https://www.linkedin.com/in/nelsonsantosaraujo/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@marciodias.me-red?style=flat-square&link=mailto:contato@marciodias.me)](mailto:contato@marciodias.me)
 
 ## Projects Full Stack
 
@@ -92,6 +94,7 @@ I solve problems that others don't.
 - 2021 - [Ignite](https://github.com/marciodiasdeveloper/ignews) - ReactJS, NextJS, TypeScript, SASS, Next-Auth, Stripe, FaunaDB, Prismic and CMS.
 
 ## Skills
+
 - Typescript
 - Javascript
 - NodeJs
@@ -110,7 +113,4 @@ I solve problems that others don't.
 - Styled Components
 - Mautic
 - Docker
-
-[![Linkedin Badge](https://img.shields.io/badge/-M%C3%A1rcio%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodiasdeveloper/)](https://www.linkedin.com/in/nelsonsantosaraujo/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@marciodias.me-red?style=flat-square&link=mailto:contato@marciodias.me)](mailto:contato@marciodias.me)
 
