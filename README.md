@@ -111,8 +111,6 @@ I solve problems that others don't.
 - Mautic
 - Docker
 
-## Contact
-
 [![Linkedin Badge](https://img.shields.io/badge/-M%C3%A1rcio%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodiasdeveloper/)](https://www.linkedin.com/in/nelsonsantosaraujo/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@marciodias.me-red?style=flat-square&link=mailto:contato@marciodias.me)](mailto:contato@marciodias.me)
 
