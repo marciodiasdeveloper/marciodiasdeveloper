@@ -57,6 +57,7 @@ I solve problems that others don't.
 ## Mobile
 - Mosaic Club | Arquitetura & Design (React Native) - [Android](https://mosaicclub.com.br/android) - [iOS](https://mosaicclub.com.br/ios)
 - Sistema de Gestão Escolar Online (SGEO) (React Native) - [Android](https://play.google.com/store/apps/details?id=com.marciodias.sgeo) - [iOS](https://apps.apple.com/us/app/sgeo/id1304336256?l=pt&ls=1)
+- Wiser Educação Challenge Mobile - [Github](https://github.com/marciodiasdeveloper/wiser-educacao-challenge-mobile)
 - GoBarber (RockeSteat GoStack Course) (React Native)
 - Be The Hero (OminisTack 11.0) [Github](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
 - DevRadar (OminiStack 10.0) [Github](https://github.com/marciodiasdeveloper/oministack-week-10-devradar)
@@ -92,6 +93,9 @@ I solve problems that others don't.
 
 - 2021 - [Ignews](https://github.com/marciodiasdeveloper/ignews) - ReactJS, NextJS, TypeScript, SASS, Next-Auth, Stripe, FaunaDB, Prismic and CMS.
 - 2021 - [Dashgo](https://github.com/marciodiasdeveloper/ignite-dashgo) - NextJS + Chakra UI = Dashboard Template
+
+## Challenge (Projects)
+- 2021 - Wiser Educação Challenge Mobile - [Github](https://github.com/marciodiasdeveloper/wiser-educacao-challenge-mobile)
 
 ## Skills
 
