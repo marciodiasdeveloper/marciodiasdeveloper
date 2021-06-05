@@ -99,6 +99,7 @@ I solve problems that others don't.
 
 ## Skills
 
+- Microservices
 - Typescript
 - Javascript
 - NodeJs
