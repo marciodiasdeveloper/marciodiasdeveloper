@@ -74,7 +74,7 @@ I solve problems that others don't.
 - [www.sleepstorecolchoes.com.br](www.sleepstorecolchoes.com.br)
 - [www.apmarcalcollection.com.br](www.apmarcalcollection.com.br)
 - [www.lavenuestore.com.br](www.lavenuestore.com.br)
-- [www.lpmakeupstore.com.br](www.lpmakeupstore.com.br)
+- [www.lpcollection.com.br](www.lpcollection.com.br)
 - [www.lumaville.com.br](www.lumaville.com.br)
 - [www.anadoceu.com](www.anadoceu.com)
 
