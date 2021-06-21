@@ -49,7 +49,6 @@ I solve problems that others don't.
 - www.sgeo.com.br - Sistema de Gestão Escolar Online
 - www.smokeyeyes.com.br - Curso online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
 - www.masterclassonline.com.br - Masterclass online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
-- www.renatarodriguesmakeup.com.br - Curso online com Renata Rodrigues (Para Quem Ama Maquiagem)
 - www.escassezreal.com.br - Fábrica de plugins para marketing de vendas
 - www.divilarimoveis.com.br - Divilar Imóveis (Sistema imobiliário)
 
