@@ -99,6 +99,9 @@ I solve problems that others don't.
 
 ## Skills
 
+- TDD
+- Clean Architecture
+- SOLID
 - Microservices
 - Javascript
 - Typescript
@@ -119,4 +122,3 @@ I solve problems that others don't.
 - Mautic
 - Docker
 - Kubernetes
-
