@@ -49,7 +49,6 @@ I solve problems that others don't.
 - www.sgeo.com.br - Sistema de Gestão Escolar Online
 - www.smokeyeyes.com.br - Curso online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
 - www.masterclassonline.com.br - Masterclass online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
-- www.escassezreal.com.br - Fábrica de plugins para marketing de vendas
 - www.divilarimoveis.com.br - Divilar Imóveis (Sistema imobiliário)
 
 
@@ -85,6 +84,8 @@ I solve problems that others don't.
 
 ## Courses
 
+- 2022 - [Erick Wendel] - Javascript Expert
+- 2022 - [Rodrigo Manguinho] - NodeJs, Typescript, TDD, Clean Architecture e SOLID
 - 2021 - [Rocketseat Ignite](https://github.com/marciodiasdeveloper/ignite) - Rocketseat ReactJS Ignite (Github Explorer, Dtmoney, Ig.news and Dashgo)
 - 2020 - [Rocketseat GoStack](https://rocketseat.com.br/) - Full Stack (ReactJS + React Native + NodeJS + NextJS)
 
@@ -99,8 +100,8 @@ I solve problems that others don't.
 ## Skills
 
 - Microservices
-- Typescript
 - Javascript
+- Typescript
 - NodeJs
 - Express
 - AdonisJs
@@ -117,4 +118,5 @@ I solve problems that others don't.
 - Styled Components
 - Mautic
 - Docker
+- Kubernetes
 
