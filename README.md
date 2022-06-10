@@ -100,9 +100,9 @@ I solve problems that others don't.
 
 
 ## Courses
-
 - 2022 - [Erick Wendel](https://javascriptexpert.com.br/) - Javascript Expert
-- 2022 - [Rodrigo Manguinho](https://www.udemy.com/course/tdd-com-mango/) - NodeJs, Typescript, TDD, Clean Architecture e SOLID
+- 2022 - [Rodrigo Manguinho](https://www.udemy.com/course/tdd-com-mango/) - NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
+- 2022 - [Fabio Vedovelli](javascript.tv.br) - Aprenda a testar Aplicações Javascript
 - 2021 - [Rocketseat Ignite](https://github.com/marciodiasdeveloper/ignite) - Rocketseat ReactJS Ignite (Github Explorer, Dtmoney, Ig.news and Dashgo)
 - 2020 - [Rocketseat GoStack](https://rocketseat.com.br/) - Full Stack (ReactJS + React Native + NodeJS + NextJS)
 
