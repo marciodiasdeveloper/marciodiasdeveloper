@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name Is Márcio Dias, I'm a Full Stack Developer from Divinópolis, Minas Gerais - Brazil.
 
-Enthusiast of the best web & mobile development technologies.
+Enthusiast of the best web & mobile development technologies and Clean architecture.
 
 I solve problems that others don't.
 
