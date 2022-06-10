@@ -104,13 +104,9 @@ I solve problems that others don't.
 - React Native
 - Gatsby
 - NextJS
-- PHP
 - Laravel
+- PHP
 - Angular
 - Vue
-- CSS
-- SaSS
-- Styled Components
-- Mautic
-- Docker
 - Kubernetes
+- Docker
