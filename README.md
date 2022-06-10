@@ -43,13 +43,12 @@ I solve problems that others don't.
 ## Projects web (Design & Code)
 
 - www.runlead.com.br - Runlead | Agendamento Inteligente
-- www.mosaicclub.com.br - Mosaic Club | Arquitetura & Design
-- www.vpsdozeroaoavancado.com.br/limitado - Curso Online VPS do Zero ao Avançado
-- www.leticiadepaula.com.br - Curso online com Letícia de Paula [@leticiadepaulaoficial](https://www.instagram.com/leticiadepaulaoficial/) - 
 - www.sgeo.com.br - Sistema de Gestão Escolar Online
+- www.vpsdozeroaoavancado.com.br/limitado - Curso Online VPS do Zero ao Avançado
+- www.mosaicclub.com.br - Mosaic Club | Arquitetura & Design
+- www.leticiadepaula.com.br - Curso online com Letícia de Paula [@leticiadepaulaoficial](https://www.instagram.com/leticiadepaulaoficial/) - 
 - www.smokeyeyes.com.br - Curso online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
 - www.masterclassonline.com.br - Masterclass online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
-- www.divilarimoveis.com.br - Divilar Imóveis (Sistema imobiliário)
 
 
 ## Mobile
