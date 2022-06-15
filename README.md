@@ -46,7 +46,8 @@ I solve problems that others don't.
 - www.runlead.com.br - Runlead | Agendamento Inteligente
 - www.sgeo.com.br - Sistema de Gestão Escolar Online
 - www.vpsdozeroaoavancado.com.br/limitado - Curso Online VPS do Zero ao Avançado
-- www.mosaicclub.com.br - Mosaic Club | Arquitetura & Design
+- https://dashboard.planeasy.com.br - Planeasy | Controle seus horários
+- https://mosaicclub.netlify.app - Mosaic Club | Arquitetura & Design
 - www.leticiadepaula.com.br - Curso online com Letícia de Paula [@leticiadepaulaoficial](https://www.instagram.com/leticiadepaulaoficial/) - 
 - www.smokeyeyes.com.br - Curso online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
 - www.masterclassonline.com.br - Masterclass online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
