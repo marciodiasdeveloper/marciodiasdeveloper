@@ -35,7 +35,7 @@ I solve problems that others don't.
 
 - Runlead | Agendamento Inteligente [https://www.runlead.com.br]
 - Sgeo (Back-end, Front-end, Mobile) [https://www.sgeo.com.br]
-- Mosaic Club (Back-end, Front-end, Mobile) [https://www.mosaicclub.com.br]
+- Mosaic Club (Back-end, Front-end, Mobile) [https://mosaicclub.netlify.app/]
 - GoBarber (RockeSteat GoStack Bootcamp Course)
 - Be The Hero (OminisTack 11.0) [https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
 - DevRadar (OminiStack 10.0) [https://github.com/marciodiasdeveloper/oministack-week-10-devradar](https://github.com/marciodiasdeveloper/oministack-week-10-devradar)
