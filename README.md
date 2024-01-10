@@ -75,6 +75,8 @@ I solve problems that others don't.
 
 
 ## Courses
+- 2024 - [DevOps Pro](https://curso.devopspro.com.br/curso/) - DevOps Pro (Kubernetes, Terraform)
+- 2023 - [Rocketseat](https://www.rocketseat.com.br/) - Rocketseat (NodeJS, React Native, React)
 - 2022 - [Erick Wendel](https://javascriptexpert.com.br/) - Javascript Expert
 - 2022 - [Rodrigo Manguinho](https://www.udemy.com/course/tdd-com-mango/) - NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
 - 2022 - [Fabio Vedovelli](javascript.tv.br) - Aprenda a testar Aplicações Javascript
