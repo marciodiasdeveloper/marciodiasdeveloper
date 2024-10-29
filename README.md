@@ -95,7 +95,7 @@ I solve problems that others don't.
 
 ## Skills
 
-Terraform
+- Terraform
 - Kubernetes
 - Amazon AWS
 - Javascript
