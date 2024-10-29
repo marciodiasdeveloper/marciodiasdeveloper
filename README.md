@@ -31,6 +31,16 @@ I solve problems that others don't.
 [![Gmail Badge](https://img.shields.io/badge/-contato@marciodias.me-red?style=flat-square&link=mailto:contato@marciodias.me)](mailto:contato@marciodias.me)
 [![Last Commit Badge](https://img.shields.io/github/last-commit/marciodiasdeveloper/marciodiasdeveloper)](https://marciodias.me/github)
 
+## Projects Open Source
+
+- Madah | Firebase Auth - https://github.com/marciodiasdeveloper/madah-firebase-auth
+- Madah | MongoDB - https://github.com/marciodiasdeveloper/madah-mongodb
+- Madah | GRPC - https://github.com/marciodiasdeveloper/madah-grpc
+- Madah | Socket.IO - https://github.com/marciodiasdeveloper/madah-socketio
+- Madah | Kafka - https://github.com/marciodiasdeveloper/madah-kafka
+- Madah | RabbitMQ - https://github.com/marciodiasdeveloper/madah-rabbitmq
+- Madah | Baileys - https://github.com/marciodiasdeveloper/madah-baileys
+  
 ## Projects Full Stack
 
 - Runlead | Agendamento Inteligente - https://www.runlead.com.br
