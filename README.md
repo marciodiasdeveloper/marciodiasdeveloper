@@ -44,7 +44,6 @@ I solve problems that others don't.
   
 ## Projects Full Stack
 
-- Runlead | Agendamento Inteligente - https://www.runlead.com.br
 - Sgeo (Back-end, Front-end, Mobile) - http://www.sgeo.com.br
 - Mosaic Club (Back-end, Front-end, Mobile) - https://mosaicclub.netlify.app/
 - GoBarber (RockeSteat GoStack Bootcamp Course)
@@ -54,7 +53,6 @@ I solve problems that others don't.
 
 ## Projects web (Design & Code)
 
-- www.runlead.com.br - Runlead | Agendamento Inteligente
 - www.sgeo.com.br - Sistema de Gestão Escolar Online
 - www.vpsdozeroaoavancado.com.br/limitado - Curso Online VPS do Zero ao Avançado
 - https://dashboard.planeasy.com.br - Planeasy | Controle seus horários
@@ -77,13 +75,6 @@ I solve problems that others don't.
 - Instagram Clone (React Native)
 - Tindev - Tinder for developers (React Native)
 - DevsFit (React Native)
-
-
-## Api Web Service Documentations
-
-- [https://docs.sgeo.com.br](https://docs.sgeo.com.br)
-- [https://docs.marciodias.me](https://docs.marciodias.me)
-
 
 ## Courses
 - 2024 - [DevOps Pro](https://curso.devopspro.com.br/curso/) - DevOps Pro (Kubernetes, Terraform)
