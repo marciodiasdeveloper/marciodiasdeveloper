@@ -95,22 +95,33 @@ I solve problems that others don't.
 
 ## Skills
 
-- TDD
-- Clean Architecture
-- SOLID
-- Microservices
-- Javascript
-- Typescript
-- NodeJs
-- Express
-- AdonisJs
-- ReactJs
-- React Native
-- Gatsby
-- NextJS
-- Laravel
-- PHP
-- Angular
-- Vue
+Terraform
 - Kubernetes
-- Docker
+- Amazon AWS
+- Javascript
+- Express
+- NextJS
+- React.JS
+- Gatsby
+- React Native
+- Jest
+- Angular
+- Clean Code
+- Solid
+- Event-Driven
+- Typescript
+- Apache Kafka
+- Rabbitmq
+- Mysql
+- MongoDB
+- Postgress
+- ElasticSearch
+- PHP
+- PHPUnit
+- Laravel
+- Scrum
+- Kanban
+- ShadCN
+- Tailwind
+- Bootstrap
+- Chakra UI
