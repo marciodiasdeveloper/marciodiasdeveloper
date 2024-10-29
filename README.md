@@ -34,6 +34,7 @@ I solve problems that others don't.
 ## Projects Open Source
 
 - Madah | Firebase Auth - https://github.com/marciodiasdeveloper/madah-firebase-auth
+- Madah | AWS Cognito - https://github.com/marciodiasdeveloper/madah-firebase-auth
 - Madah | MongoDB - https://github.com/marciodiasdeveloper/madah-mongodb
 - Madah | GRPC - https://github.com/marciodiasdeveloper/madah-grpc
 - Madah | Socket.IO - https://github.com/marciodiasdeveloper/madah-socketio
