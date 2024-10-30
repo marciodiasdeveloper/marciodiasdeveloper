@@ -92,7 +92,8 @@ I solve problems that others don't.
 
 ## Challenge (Projects)
 - 2021 - Wiser Educação Challenge Mobile - [Github](https://github.com/marciodiasdeveloper/wiser-educacao-challenge-mobile)
-
+- 2024 - Challenge Backend Firebase Auth - - [Capim | Firebase Auth](https://github.com/marciodiasdeveloper/capim-firebase-auth)
+  
 ## Skills
 
 - Terraform
