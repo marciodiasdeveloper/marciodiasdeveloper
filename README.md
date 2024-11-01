@@ -63,7 +63,7 @@ I solve problems that others don't.
 
 
 ## Mobile
-- Mosaic Club | Arquitetura & Design (React Native) - [url](https://mosaicclub.netlify.app/)
+- Mosaic Club | Arquitetura & Design (React Native) - [https://mosaicclub.netlify.app](https://mosaicclub.netlify.app/)
 - Sistema de Gestão Escolar Online (SGEO) (React Native) - [Android](https://play.google.com/store/apps/details?id=com.marciodias.sgeo) - [iOS](https://apps.apple.com/us/app/sgeo/id1304336256?l=pt&ls=1)
 - Wiser Educação Challenge Mobile - [Github](https://github.com/marciodiasdeveloper/wiser-educacao-challenge-mobile)
 - GoBarber (RockeSteat GoStack Course) (React Native)
