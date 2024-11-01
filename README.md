@@ -34,13 +34,13 @@ I solve problems that others don't.
 ## Projects Open Source
 
 - [Capim | Firebase Auth](https://github.com/marciodiasdeveloper/capim-firebase-auth) 
-- [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito) - (awaiting development)
-- [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb) - (awaiting development)
-- [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc) - (awaiting development)
-- [Capim | Socket.IO](https://github.com/marciodiasdeveloper/capim-socketio) - (awaiting development)
-- [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka) - (awaiting development)
-- [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq) - (awaiting development)
-- [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys) - (awaiting development)
+- [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito) - (waiting for the project to start)
+- [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb) - (waiting for the project to start)
+- [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc) - (waiting for the project to start)
+- [Capim | Socket.IO](https://github.com/marciodiasdeveloper/capim-socketio) - (waiting for the project to start)
+- [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka) - (waiting for the project to start)
+- [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq) - (waiting for the project to start)
+- [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys) - (waiting for the project to start)
   
 ## Projects Full Stack
 
