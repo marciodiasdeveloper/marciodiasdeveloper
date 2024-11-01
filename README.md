@@ -33,14 +33,14 @@ I solve problems that others don't.
 
 ## Projects Open Source
 
-- [Capim | Firebase Auth](https://github.com/marciodiasdeveloper/capim-firebase-auth)
-- [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito)
-- [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb)
-- [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc)
-- [Capim | Socket.IO](https://github.com/marciodiasdeveloper/capim-socketio)
-- [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka)
-- [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq)
-- [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys)
+- [Capim | Firebase Auth](https://github.com/marciodiasdeveloper/capim-firebase-auth) 
+- [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito) - (awaiting development)
+- [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb) - (awaiting development)
+- [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc) - (awaiting development)
+- [Capim | Socket.IO](https://github.com/marciodiasdeveloper/capim-socketio) - (awaiting development)
+- [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka) - (awaiting development)
+- [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq) - (awaiting development)
+- [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys) - (awaiting development)
   
 ## Projects Full Stack
 
