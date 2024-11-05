@@ -33,8 +33,8 @@ I solve problems that others don't.
 
 ## Projects Open Source
 
-- [Capim | Firebase Auth](https://github.com/marciodiasdeveloper/capim-firebase-auth) - in development - Come on, come and see the code
-- [Capim | Clerk](https://github.com/marciodiasdeveloper/capim-clerk) - in development - Come on, come and see the code
+- [Capim | Firebase Auth (in development)](https://github.com/marciodiasdeveloper/capim-firebase-auth) - Come on, come and see the code
+- [Capim | Clerk (in development)](https://github.com/marciodiasdeveloper/capim-clerk) - Come on, come and see the code
 - [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito) - waiting for the project to start
 - [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb) - waiting for the project to start
 - [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc) - waiting for the project to start
