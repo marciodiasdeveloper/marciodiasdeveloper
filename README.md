@@ -33,15 +33,15 @@ I solve problems that others don't.
 
 ## Projects Open Source
 
-- [Capim | Firebase Auth](https://github.com/marciodiasdeveloper/capim-firebase-auth) - (Come on, come and see the code)
-- [Capim | Clerk](https://github.com/marciodiasdeveloper/capim-clerk) - (waiting for the project to start)
-- [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito) - (waiting for the project to start)
-- [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb) - (waiting for the project to start)
-- [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc) - (waiting for the project to start)
-- [Capim | Socket.IO](https://github.com/marciodiasdeveloper/capim-socketio) - (waiting for the project to start)
-- [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka) - (waiting for the project to start)
-- [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq) - (waiting for the project to start)
-- [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys) - (waiting for the project to start)
+- [Capim | Firebase Auth](https://github.com/marciodiasdeveloper/capim-firebase-auth) - in development - Come on, come and see the code
+- [Capim | Clerk](https://github.com/marciodiasdeveloper/capim-clerk) - in development - Come on, come and see the code
+- [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito) - waiting for the project to start
+- [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb) - waiting for the project to start
+- [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc) - waiting for the project to start
+- [Capim | Socket.IO](https://github.com/marciodiasdeveloper/capim-socketio) - waiting for the project to start
+- [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka) - waiting for the project to start
+- [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq) - waiting for the project to start
+- [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys) - waiting for the project to start
   
 ## Projects Full Stack
 
