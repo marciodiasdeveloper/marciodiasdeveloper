@@ -34,6 +34,7 @@ I solve problems that others don't.
 ## Projects Open Source
 
 - [Capim | Firebase Auth (in development)](https://github.com/marciodiasdeveloper/capim-firebase-auth) - Come on, come and see the code
+- [Capim | NestJS (Auth, JWT, File Upload, Tasks) (in development)](https://github.com/marciodiasdeveloper/capim-firebase-auth](https://github.com/marciodiasdeveloper/nestjs-auth-jwt) - Come on, come and see the code
 - [Capim | Clerk (in development)](https://github.com/marciodiasdeveloper/capim-clerk) - Come on, come and see the code
 - [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito) - waiting for the project to start
 - [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb) - waiting for the project to start
@@ -42,7 +43,7 @@ I solve problems that others don't.
 - [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka) - waiting for the project to start
 - [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq) - waiting for the project to start
 - [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys) - waiting for the project to start
-  
+
 ## Projects Full Stack
 
 - Sgeo (Back-end, Front-end, Mobile) - http://www.sgeo.com.br
