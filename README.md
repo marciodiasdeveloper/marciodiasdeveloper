@@ -33,16 +33,16 @@ I solve problems that others don't.
 
 ## Projects Open Source
 
-- [Capim | Firebase Auth (in development)](https://github.com/marciodiasdeveloper/capim-firebase-auth) - Come on, come and see the code
-- [Capim | Auth, JWT, File Upload, Tasks (in development)](https://github.com/marciodiasdeveloper/capim-nestjs-auth-jwt) - (NestJS) - Come on, come and see the code
-- [Capim | Clerk (in development)](https://github.com/marciodiasdeveloper/capim-clerk) - Come on, come and see the code
-- [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito) - waiting for the project to start
-- [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb) - waiting for the project to start
-- [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc) - waiting for the project to start
-- [Capim | Socket.IO](https://github.com/marciodiasdeveloper/capim-socketio) - waiting for the project to start
-- [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka) - waiting for the project to start
-- [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq) - waiting for the project to start
-- [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys) - waiting for the project to start
+- [Capim | Firebase Auth (in development)](https://github.com/marciodiasdeveloper/capim-firebase-auth)
+- [Capim | Auth, JWT, File Upload, Tasks (in development)](https://github.com/marciodiasdeveloper/capim-nestjs-auth-jwt) - (NestJS)
+- [Capim | Clerk (in development)](https://github.com/marciodiasdeveloper/capim-clerk)
+- [Capim | AWS Cognito](https://github.com/marciodiasdeveloper/capim-aws-cognito)
+- [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb)
+- [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc)
+- [Capim | Socket.IO](https://github.com/marciodiasdeveloper/capim-socketio)
+- [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka)
+- [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq)
+- [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys)
 
 ## Projects Full Stack
 
