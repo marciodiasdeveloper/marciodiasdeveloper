@@ -40,6 +40,7 @@ I solve problems that others don't.
 - [Capim | MongoDB](https://github.com/marciodiasdeveloper/capim-mongodb)
 - [Capim | GRPC](https://github.com/marciodiasdeveloper/capim-grpc)
 - [Capim | Socket.IO](https://github.com/marciodiasdeveloper/capim-socketio)
+- [Capim | AWS SQS](https://github.com/marciodiasdeveloper/capim-aws-sqs)
 - [Capim | Kafka](https://github.com/marciodiasdeveloper/capim-kafka)
 - [Capim | RabbitMQ](https://github.com/marciodiasdeveloper/capim-rabbitmq)
 - [Capim | Baileys](https://github.com/marciodiasdeveloper/capim-baileys)
