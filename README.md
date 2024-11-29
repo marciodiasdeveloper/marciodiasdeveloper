@@ -60,9 +60,6 @@ I solve problems that others don't.
 - www.vpsdozeroaoavancado.com.br/limitado - Curso Online VPS do Zero ao Avançado
 - https://dashboard.planeasy.com.br - Planeasy | Controle seus horários
 - https://mosaicclub.netlify.app - Mosaic Club | Arquitetura & Design
-- www.leticiadepaula.com.br - Curso online com Letícia de Paula [@leticiadepaulaoficial](https://www.instagram.com/leticiadepaulaoficial/) - 
-- www.smokeyeyes.com.br - Curso online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
-- www.masterclassonline.com.br - Masterclass online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
 
 
 ## Mobile
